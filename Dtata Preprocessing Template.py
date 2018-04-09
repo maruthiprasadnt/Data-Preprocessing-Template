@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 #importing the Dataset
-df = pd.read_csv('C:/Users/marut/Desktop/Masters Project/Data Engineer/Data Science/Udemy Course/Machine_Learning_AZ_Template_Folder/Data_Preprocessing/Data_Preprocessing/Data.csv')
+df = pd.read_csv('C:/Users/marut/Desktop/Data_Preprocessing/Data_Preprocessing/Data.csv')
 X = df.iloc[:, :-1].values # splitting Input features and output features
 y = df.iloc[:, 3].values # change the columns according to the dataset and problem requirement
 
