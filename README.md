@@ -1,7 +1,5 @@
 # Data-Preprocessing-Template
 
-Why preprocessing ?
-
 Real world data are generally
 Incomplete: lacking attribute values, lacking certain attributes of interest, or containing only aggregate data
 Noisy: containing errors or outliers
